@@ -1,7 +1,7 @@
 # Youtube-views-bot
 Bot that boosts you views automatically.
 
-Directions: One screen has to be free. TBC...
+Directions: One screen has to be free. To be written...
 
 Pyautogui used because selenium works with html and not with embedded videos. Investigate {video} tag and see if there is any way to play and mute video via html and selenium.
 
