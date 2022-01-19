@@ -6,3 +6,5 @@ Pyautogui used because selenium works with html and not with embedded videos. In
 Look into threading to run multiple tabs at once. How to manage different tabs without clicks intefering with each other?
 
 Set random watch time to prevent youtube from recognising bot activity.
+
+Setup process so that view count and execution time are still printed if script is interrupted before run end.
