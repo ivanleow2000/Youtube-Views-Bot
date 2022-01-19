@@ -1,5 +1,5 @@
 # Youtube-views-bot
-Bot that boosts you views automatically.
+Bot that boosts your views automatically.
 
 Directions: One screen has to be free. To be written...
 
